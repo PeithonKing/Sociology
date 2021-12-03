@@ -1,0 +1,82 @@
+{
+	"Q0) Whom do you consider an ideal scientist?": {
+		"Someone who studies science and has a decent amount of knowledge on the subject": 0,
+		"Someone who helps the society to utilize science": 1,
+		"Someone whose only aim is development of science": 2,
+		"Someone who enjoys to work with science and takes it as a career": 3
+	},
+	"Q1) What should be the most accurate metrics to judge the caliber of a scientist?": {
+		"The amount of knowledge and wisdom which one has": 0,
+		"The impact which he/she is making on the society": 1,
+		"Number of good publications and patents": 2,
+		"His bank-balance /social status/fame": 3
+	},
+	"Q2) What according to you should be the minimum educational qualification one should have to be considered a scientist?": {
+		"10th pass": 0,
+		"Does Not matter": 1,
+		"Doctorate": 2,
+		"Post Doctorate": 3,
+		"Post Graduate": 4,
+		"Graduate": 5,
+		"12th pass": 6
+	},
+	"Q3) What do you think should be the most developed trait which one should have to become a successful scientist?": {
+		"Intelligence": 0,
+		"Innovative": 1,
+		"Foresight": 2,
+		"High motivation": 3,
+		"Hardworking": 4,
+		"Creative": 5
+	},
+	"Q4) What is the first thought which you have when you hear the word 'Scientist'": {
+		"Some one who tries to find reason in everything and wants to uncover every secret of the universe.": 0,
+		"Someone who is busy to discover the next big thing and make this world a better place.": 1,
+		"A normal person with high motivation and extreme love for science.": 2,
+		"Some with odd hair, thick glasses wearing a lab coat and working in some secret lab.": 3,
+		"Someone crazy who leave everything ( Social life, friends , family) for the sake of science.": 4,
+		"Some highly educated folk.": 5
+	},
+	"Q5) Why do you think people want to be a scientist?": {
+		"Social Status and financial stability": 0,
+		"Desire to make great discoveries and to solve  global problems": 1,
+		"Love for the subject": 2,
+		"It sounds fancy and people think that you are very smart": 3,
+		"High chances of landing a job": 4,
+		"None of the above": 5
+	},
+	"Q6) What should be a scientist’s first priority?": {
+		"Development of the subject itself": 0,
+		"Working on what he is interested on": 1,
+		"Development of the society": 2,
+		"Developing ones knowledge": 3
+	},
+	"Q7) Do you think that scientists should be allowed to conduct unethical experiments for the sake of science": {
+		"I choose not to answer this question": 0,
+		"Yes, it will help science a lot and widen our research field.": 1,
+		"No, it will be unethical and disturb the basic fabric of the society": 2
+	},
+	"Q8) Should a scientist prioritize science over social ethics and social norms for the sake of greater good": {
+		"Yes": 0,
+		"No": 1
+	},
+	"Q9) What do you think is the most important stimulus to a scientist": {
+		"Curiosity and personal interest": 0,
+		"Social Need or Scarcity(Covid-19 Vaccine research for example)": 1,
+		"Dream of a better future(Colonizing Mars for example)": 2,
+		"Others": 3
+	},
+	"Q10) How  do scientists help common people?": {
+		"They improve education and adds to the knowledge on various aspects": 0,
+		"They address issues on health, defense, climate  etc through their discoveries": 1,
+		"They answering the great mysteries of the universe": 2,
+		"They develop new technologies and gadgets to make our life easy": 3
+	},
+	"Q11) Are scientists more biased towards theoretical aspects of science rather than the practical side of it.": {
+		"Yes": 0,
+		"No": 1
+	},
+	"Q12) Do you think that scientists are slowly getting replaced by engineers and doctors as they are more focused towards the theoretical aspect of science. ": {
+		"Yes, indeed they are slowly getting less important to the society": 0,
+		"Scientist can never get replaced by the professionals(engineers/doctors) .": 1
+	}
+}
